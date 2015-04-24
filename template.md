@@ -14,3 +14,5 @@ Users receive a series of photos of pests reported by others in the area, tappin
 * Robert Sisson
 
 This project was created at the [Apps for Ag](http://www.apps-for-ag.com/) hackathon in Coalinga, CA.
+
+Source code can be found [here](https://github.com/AgSwarm/swarm).
